@@ -47,7 +47,7 @@ public class Practica2 {
         
         System.out.print("El precio final de pago es: " + pf);
         
-        // Cerramos el scanner para evitar fugas de recursos
+        
         sc.close();
     }
 }
